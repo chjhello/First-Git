@@ -12,4 +12,8 @@ public class Test {
 
         System.out.println("hello Git horm222222222222222222222222");
     }
+
+    public void mm(){
+        System.out.println("git第二次提交");
+    }
 }

@@ -15,5 +15,6 @@ public class Test {
 
     public void mm(){
         System.out.println("git第二次提交");
+        System.out.println("克隆提交");
     }
 }
